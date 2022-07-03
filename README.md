@@ -16,5 +16,15 @@
 
 ## Chức năng :
 ### 2 xoay 8 hướng
-## Ảnh xoay
+## Cách cắm chân :
 ![alt text](https://github.com/dungchivas722/xedieukhienbangremote-2arduino/blob/main/Picture/5.jpg)
+![alt text](https://github.com/dungchivas722/xedieukhienbangremote-2arduino/blob/main/Picture/6.jpg)
+## Các hướng xe đi trên joystick :
+![alt text](https://github.com/dungchivas722/xedieukhienbangremote-2arduino/blob/main/Picture/1.png)
+![alt text](https://github.com/dungchivas722/xedieukhienbangremote-2arduino/blob/main/Picture/2.png)
+## ADC trên joystick :
+![alt text](https://github.com/dungchivas722/xedieukhienbangremote-2arduino/blob/main/Picture/3.jpg)
+![alt text](https://github.com/dungchivas722/xedieukhienbangremote-2arduino/blob/main/Picture/4.jpg)
+## Hình ảnh thức tế :
+![alt text](https://github.com/dungchivas722/xedieukhienbangremote-2arduino/blob/main/Picture/7.jpg)
+![alt text](https://github.com/dungchivas722/xedieukhienbangremote-2arduino/blob/main/Picture/8.jpg)
