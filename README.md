@@ -1,6 +1,11 @@
 # xedieukhienbangremote-2arduino
 ## VIdeo minh họa :
-[![Watch the video](https://github.com/dungchivas722/xedieukhienbangremote-2arduino/blob/main/Video/1.mp4)
+
+https://user-images.githubusercontent.com/61546385/177046823-c1bf95cd-08fe-4c7e-8cc6-035602a61cd6.mp4
+
+https://user-images.githubusercontent.com/61546385/177046830-627e27e1-da62-446a-93b1-5ca1d04ce269.mp4
+
+
 [Bấm vào đây](Link)
 ## Các module sử dụng:
 
