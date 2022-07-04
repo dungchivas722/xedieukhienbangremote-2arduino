@@ -14,6 +14,9 @@ https://user-images.githubusercontent.com/61546385/177046830-627e27e1-da62-446a-
 3. Nguồn 5v 2a 
 4, Nguồn 12V
 5. 2 module lora as32
+6, 2 L298N
+7, 4 motor DC
+8, 4 mecanum wheel
 
 ## Phần mềm sử dụng : 
 
